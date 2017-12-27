@@ -1,0 +1,19 @@
+{
+  "name": "bitfinex-ws",
+  "version": "1.0.0",
+  "description": "WebSocket for consuming Bitfinex API",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.7",
+    "ws": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
